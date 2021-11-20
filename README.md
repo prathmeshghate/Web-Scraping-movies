@@ -6,7 +6,7 @@ and making it more easier to understand.<br>
 In this project I've made a python project using 'Beautiful Soup'.What it does is, It gives you the CSV file of top 50 romcom movies, more exciting is it<br> 
 also provides you with it 'released year, its rating ,genre, its director, its cast,it plot' isn't it exciting.<br> 
 
-#Installing Dependencies
+# Installing Dependencies
  
  run this in terminal
  
